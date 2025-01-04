@@ -48,10 +48,9 @@ Identify top 3 city based on highest sales, return city name, total sale, total 
 - loaded excel files in PostgreSQL
 - Solved the given Questions
 
-## Dashboard
-Img only 
-
 ## Project Insights
+![Screenshot 2025-01-03 211827](https://github.com/user-attachments/assets/d88eb274-adc7-4d4f-9edb-9032cf4be490)
+
 After analyzing the data, the recommended top three cities for new store openings are:
 
 - City 1: Pune
