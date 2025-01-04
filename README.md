@@ -7,6 +7,9 @@ The goal of this project is to analyze the sales data of Monday Coffee, a compan
 - <a href="https://github.com/ChandraMohaniitm/monday-coffee/blob/main/mondey_coffee(all).csv">view dataset</a>
 
 ## Dashboard 
+- <a href="https://github.com/ChandraMohaniitm/monday-coffee/blob/main/Screenshot%202025-01-03%20211827.png">dashboard image</a>
+
+## SQL Code
 - <a href=""></a>
 
 ## Questions (KPIs)
