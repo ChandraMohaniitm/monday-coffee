@@ -4,10 +4,10 @@
 The goal of this project is to analyze the sales data of Monday Coffee, a company that has been selling its products online since January 2023, and to recommend the top three major cities in India for opening new coffee shop locations based on consumer demand and sales performance.
 
 ## Dataset 
-Link
+- <a href="https://github.com/ChandraMohaniitm/monday-coffee/blob/main/mondey_coffee(all).csv">view dataset</a>
 
 ## Dashboard 
-Link
+- <a href=""></a>
 
 ## Questions (KPIs)
 - Coffee Consumers Count
