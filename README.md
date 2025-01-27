@@ -69,4 +69,3 @@ Highest number of customers, which is 69.
 Average rent per customer is very low at 156.
 Average sales per customer is better at 11.6k.
 
-## Conclusion
